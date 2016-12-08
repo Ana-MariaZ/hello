@@ -20,7 +20,7 @@ public class Test {
 		System.out.println("Skriv brugernavn: ");
 		String username = sc.next(); 
 		
-		 System.out.println("Du skrev: " + "  " + username + " " + alder + " " + højde);
+		 System.out.println("Du skrev: " + "  " + " brugernavn: " + username + " " + " Alder:" + alder + " " + "Højde: " + højde);
 	
 		
 	sc.close();
